@@ -9,7 +9,7 @@
   
 * Streaming channels: 
   * UDP: port 62726
-  * Msgs sent to iclisten __cannot__ exceed __100 bytes__
+  * Msgs length 32bits ?
   * Big endian (MSB)
   * binary format
 
