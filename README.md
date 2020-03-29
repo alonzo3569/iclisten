@@ -43,7 +43,14 @@ Other Sensors | 51681
   * [__Wiki 2's__][12]
   * [__Wiki 1's__][13]
   * [__Wiki signed number representations__][14]
-
+* __TCP & UDP :__
+  * [__TCP C++__][14]
+  * [__TCP/UDP__][15]
+  * [__TCP/IP note__][16]
+  * [__TCP UDP comparison__][17]
+  * [__TCP/IP__][18]
+  * [__TCP/IP Layer__][19]
+* [__Uwobs/collect_audio.py__][20]
 
 [0]: https://hackmd.io/@sysprog/binary-representation
 [1]: https://notfalse.net/20/signed-number-representations
@@ -59,4 +66,10 @@ Other Sensors | 51681
 [11]: https://www.cnblogs.com/zhangziqiu/archive/2011/03/30/ComputerCode.html
 [12]: https://zh.wikipedia.org/wiki/%E4%BA%8C%E8%A3%9C%E6%95%B8
 [13]: https://zh.wikipedia.org/wiki/%E4%B8%80%E8%A3%9C%E6%95%B8
-[14]: https://zh.wikipedia.org/wiki/%E6%9C%89%E7%AC%A6%E8%99%9F%E6%95%B8%E8%99%95%E7%90%86
+[14]: http://beej-zhtw.netdpi.net/09-man-manual/9-18-recv-recvfrom
+[15]: http://www.pcnet.idv.tw/pcnet/network/network_ip_tcp.htm
+[16]: https://kknews.cc/tech/85kjm6e.html
+[17]: https://www.itread01.com/content/1545374466.html
+[18]: https://www.cnblogs.com/xiohao/p/4439164.html
+[19]: https://iter01.com/150833.html?fbclid=IwAR0LHWaHYLhQwVx8sm_G67dg58tBm_ucDzUnCTZEYgt8CN89EOw0N0-ttLE
+[20]: https://github.com/IrishMarineInstitute/uwobs/blob/master/common/apps/catserial/collect_audio.py
